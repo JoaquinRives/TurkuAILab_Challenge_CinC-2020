@@ -1,0 +1,26 @@
+# file: dependencies.txt
+#
+# This file lists additional Debian packages that must be installed
+# prior to running your entry's 'setup.sh' and 'next.sh' scripts.
+# Each package must be on a separate line.
+
+#octave
+#octave-signal
+#octave-statistics
+
+python3-dev = 3.4.2-2
+libpython3-dev = 3.4.2-2
+python3-wheel = 0.29.0-2
+python3-pip = 1.5.6-5
+python3-decorator = 4.0.11-1
+python3-numpy = 1:1.12.0-2~pn0
+python3-numpy-dbg = 1:1.12.0-2~pn0
+python3-scipy = 0.18.1-2~pn1
+python3-scipy-dbg = 0.18.1-2~pn1
+python3-pandas = 0.14.1-2
+python3-matplotlib = 1.4.2-3.1
+python3-tk = 3.4.2-1+b1
+python3-joblib = 0.10.3+git55-g660fe5d-1
+python3-sklearn = 0.18-5~pn0
+python3-sklearn-lib = 0.18-5~pn0
+python3-xgboost = 0.6+git20160810-0~pn1

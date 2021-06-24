@@ -1,0 +1,6 @@
+.idea/
+__pycache__/*
+evaluate_12ECG_score.py
+test_1/*
+output/*
+scores.csv
